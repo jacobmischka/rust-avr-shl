@@ -1,5 +1,5 @@
 [package]
-name = "tea-whistle"
+name = "rust-avr-shl"
 version = "0.1.0"
 authors = ["Jacob Mischka <jacob@mischka.me>"]
 edition = "2018"
